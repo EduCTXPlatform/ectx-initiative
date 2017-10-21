@@ -1,36 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EduCTXPlatform/ectx-initiative/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The EduCTX blockchain platform rests on the idea that all globally distributed HEIs join forces together in order to build an efficient, simplified, ubiquitous solution for a student's credit assignment, while eliminating language and administrative obstacles which arise when dealing with credit transfers and certification on a broader or global scale. Therefore, we invite anyone interested to join the EduCTX initiative (more information is available at eductx.org), so that the EduCTX idea can be further discussed and developed. 
+We also encourage all HEIs, especially those already having the ECTS accredited system, to join the EduCTX blockchain network, thus helping spread and add to the security of the network. For further information, please contact us at: eductx@um.si.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EduCTXPlatform/ectx-initiative/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
